@@ -13,12 +13,14 @@ recuperação de chaves e IVs.
 
 ## Estrutura do Código
 
-1. Geração e Armazenamento de Chaves e IV:
+ Geração e Armazenamento de Chaves e IV:
 • DES: Utiliza uma chave fixa de 8 bytes.
 • 3DES: Gera uma chave de 24 bytes.
 • AES: Gera uma chave de 32 bytes e um IV de 16 bytes.
+
 • Chaves e o IV são salvos em arquivos para uso posterior.
-2. Criptografia e Descriptografia:
+Criptografia e Descriptografia:
+
 • O texto é criptografado usando DES, seguido por 3DES e finalmente por AES.
 • O processo inverso descriptografa os dados na ordem reversa, recuperando o texto original.
 
