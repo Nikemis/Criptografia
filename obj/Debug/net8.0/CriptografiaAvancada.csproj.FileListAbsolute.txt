@@ -1,0 +1,14 @@
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\bin\Debug\net8.0\CriptografiaAvancada.exe
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\bin\Debug\net8.0\CriptografiaAvancada.deps.json
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\bin\Debug\net8.0\CriptografiaAvancada.runtimeconfig.json
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\bin\Debug\net8.0\CriptografiaAvancada.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\bin\Debug\net8.0\CriptografiaAvancada.pdb
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.AssemblyInfoInputs.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.AssemblyInfo.cs
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.csproj.CoreCompileInputs.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\refint\CriptografiaAvancada.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.pdb
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\CriptografiaAvancada.genruntimeconfig.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\Projetos FACULDADE\PROJETO GITHUB\criptografia avançada\CriptografiaAvancada\obj\Debug\net8.0\ref\CriptografiaAvancada.dll
